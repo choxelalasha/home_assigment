@@ -1,0 +1,1 @@
+with open("lasha.py" "r")
